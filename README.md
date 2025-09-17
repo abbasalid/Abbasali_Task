@@ -38,6 +38,9 @@ app/
 📱 Screen
 
 
-https://github.com/user-attachments/assets/ee33571a-e4ab-49a4-ac2f-c6e49b8bd48d
+https://github.com/user-attachments/assets/7951e49e-e970-4649-b1a1-aeff4b40acbe
+
+
+
 
 
