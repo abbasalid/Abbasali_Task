@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Abbasali_Task</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="total_investment">Total Investment*</string>
+    <string name="current_value">Current Value*</string>
+    <string name="today_pnl">Today\'s Profit  &amp; Loss*</string>
+    <string name="pnl">Profit &amp; Loss*</string>
+    <string name="net_qty_label">NET QTY:</string>
+    <string name="avg_label">Avg:</string>
+    <string name="ltp_label">LTP:</string>
+    <string name="pnl_label">P&amp;L:</string>
+
+    <string name="default_error_icon">Default error icon</string>
+    <string name="close_error">Close error</string>
+
+
+</resources>
